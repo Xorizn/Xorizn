@@ -8,5 +8,5 @@
 >
 </div>
 <p align="center">
-    <a href="https://wa.me/6281337541779"><img title="Authot" src="https://i.ibb.co/bWGV786/Png-Item-653816.png" /></a>
+    <a href="https://wa.me/6281337541779">WhatsApp</a>
 </p>
