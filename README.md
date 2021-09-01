@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/6bPk3NX/20210816-101148.jpg" alt="Yuzzu" width="300" />
+<img src="https://i.ibb.co/R2jYFhc/442757cb859d28f896389b76fff1d758.gif" alt="Yuzzu" width="300" />
 
 # AMPUN STAH
 
