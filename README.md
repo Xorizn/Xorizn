@@ -1,4 +1,4 @@
-<h1 align="center">Hiiii! <img src="https://github.com/YuzzuKamiyaka/image/blob/main/84c.gif" style="border-radius:5;" width="39px" alt=""><br></h1>
+<h1 align="center">Hiiii! <img src="https://github.com/YuzzuKamiyaka/image/blob/main/Kanna%20-%20eyes%20on%20you.gif" style="border-radius:5;" width="39px" alt=""><br></h1>
 <p align="center">
 <img align="center" height="auto" src="https://github.com/YuzzuKamiyaka/image/blob/main/442757cb859d28f896389b76fff1d758.gif"/>
 
