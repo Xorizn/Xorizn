@@ -21,7 +21,7 @@
   
 ------
  
-### Repo Stats 
+### Github Stats 
 
 ![github card](https://github-readme-stats.vercel.app/api?username=YuzzuKamiyaka&show_icons=true&theme=radical)
 
