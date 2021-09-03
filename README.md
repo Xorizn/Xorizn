@@ -24,4 +24,5 @@
 ### Repo Stats 
 
 ![github card](https://github-readme-stats.vercel.app/api?username=YuzzuKamiyaka&show_icons=true&theme=radical)
-![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuzzuKamiyaka&theme=radical)
+<center>![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuzzuKamiyaka&theme=radical)</center>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuzzuKamiyaka&theme=radical)
