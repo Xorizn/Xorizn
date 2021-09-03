@@ -17,8 +17,7 @@
 <p align="center">
   <a href="https://instagram.com/bala.dasa_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/6281337541779"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
-<a href="https://youtube.com/c/YuzzuKamiyaka"><img width="116" height="400
-" src="https://camo.githubusercontent.com/d56af0508b6719132b386c00da86b2cf234084af1e4e4888ebd4b0c5106433e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d596f75747562652d7265643f7374796c653d666c61742d737175617265266c6f676f3d796f7574756265" />
+<a href="https://youtube.com/c/YuzzuKamiyaka"><img width="116" height="75" src="https://camo.githubusercontent.com/d56af0508b6719132b386c00da86b2cf234084af1e4e4888ebd4b0c5106433e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d596f75747562652d7265643f7374796c653d666c61742d737175617265266c6f676f3d796f7574756265" />
   
 ------
  
