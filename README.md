@@ -5,9 +5,8 @@
 <p align="center">
 
 - Hy Im Yuzzu Kamiyaka
-- Call me Bala Krishna
 - I am 15 years old
-- I live in Bali
+- I live in Indonesian
 - Thank you and follow me
 
 
