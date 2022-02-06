@@ -1,8 +1,8 @@
-<h1 align="center">Hiiii! <img src="https://github.com/YuzzuKamiyaka/image/blob/main/Kanna%20-%20eyes%20on%20you.gif" style="border-radius:5;" width="45px" alt=""><br></h1>
 <p align="center">
-<a href="https://youtube.com/c/YuzzuKamiyaka"><img align="center" height="auto" src="https://github.com/YuzzuKamiyaka/image/blob/main/442757cb859d28f896389b76fff1d758.gif"/></a>
+  <a href="https://github.com/Rlxfly"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+Yuzzu+Kamiyaka;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;Don't+bully+me+≧▽≦" alt="Asu">
+</p>
 
-<p align="center">
+---------
 
 - Hy Im Yuzzu Kamiyaka
 - I am 16 years old
