@@ -1,16 +1,8 @@
 <p align="center">
-  <a href="https://github.com/Rlxfly"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+Yuzzu+Kamiyaka;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;Don't+bully+me+≧▽≦" alt="Asu">
+  <a href="https://github.com/Rlxfly"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+Yuzzu+Kamiyaka;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesian;Don't+bully+me+≧▽≦" alt="Asu">
 </p>
 
 ---------
-
-- Hy Im Yuzzu Kamiyaka
-- I am 16 years old
-- I live in Indonesian
-- Thank you and follow me
-
-
-------
 
 ### Connect with me 
 <p align="center">
@@ -25,8 +17,6 @@
 <a href="https://youtube.com/c/YuzzuKamiyaka"><img align="center" height="auto" src="https://github.com/YuzzuKamiyaka/image/blob/main/IMG-20210904-WA0000.png"/></a><br><br>
 <a href="https://youtube.com/c/YuzzuKamiyaka"><img src="https://camo.githubusercontent.com/d56af0508b6719132b386c00da86b2cf234084af1e4e4888ebd4b0c5106433e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d596f75747562652d7265643f7374796c653d666c61742d737175617265266c6f676f3d796f7574756265" />
 </a><br>
-<a href="https://youtube.com/c/YuzzuKamiyaka"><img src="https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web/tiktok/web/node/_next/static/images/create-38e08fcedb8660d05e3c463376e49544.svg" />
-</a>
 <p align="center">
 
 - Yuzzu Kamiyaka
