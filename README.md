@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Xorizn"><img src="http://readme-typing-svg.herokuapp.com?color=b82323&center=true&vCenter=true&multiline=false&lines=My+Name+Yuzzu+Kamiyaka;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesia;Don't+bully+me+≧▽≦" alt="Asu">
+  <a href="https://github.com/Xorizn"><img src="http://readme-typing-svg.herokuapp.com?color=b82323&center=true&vCenter=true&multiline=false&lines=My+Name+Xorizn;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesia;Don't+bully+me+≧▽≦" alt="Asu">
 </p>
 <img src="https://github.com/Xorizn/Xorizn/blob/main/20220508_104814.jpg" />
 
@@ -12,19 +12,6 @@
 
   
 ------
-
-### My YouTube
-<p align="center">
-<a href="https://youtube.com/c/Xorizn"><img align="center" height="auto" src="https://github.com/Xorizn/image/blob/main/IMG-20210904-WA0000.png"/></a><br><br>
-<a href="https://youtube.com/c/Xorizn"><img src="https://camo.githubusercontent.com/d56af0508b6719132b386c00da86b2cf234084af1e4e4888ebd4b0c5106433e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d596f75747562652d7265643f7374796c653d666c61742d737175617265266c6f676f3d796f7574756265" />
-</a><br>
-<p align="center">
-
-- Its Me Xorizn
-- See more and subscribe
-
-------
-
 ### Spotify Music
 
 <p align="center">
