@@ -3,6 +3,17 @@
 </p>
 <img src="https://github.com/Xorizn/Xorizn/blob/main/20220508_104814.jpg" />
 
+---
+
+```javascript
+// life motto
+if (sad() === true){
+    sad().stop();
+    beAwesome();
+}
+    console.log("Hello there 👋, I'm Xorizn, Nice to meet you all!"))
+```
+
 -------
 
 ### Connect with me 
