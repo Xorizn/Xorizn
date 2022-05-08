@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://github.com/Rlxfly"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+Yuzzu+Kamiyaka;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesian;Don't+bully+me+≧▽≦" alt="Asu">
 </p>
+<img src="https://github.com/Xorizn/Xorizn/blob/main/20220508_104814.jpg" />
 
----------
+-------
 
 ### Connect with me 
 <p align="center">
