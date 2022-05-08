@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Xorizn"><img src="http://readme-typing-svg.herokuapp.com?color=b82323&center=true&vCenter=true&multiline=false&lines=My+Name+Xorizn;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesia;Don't+bully+me+≧▽≦" alt="Asu">
+  <a href="https://github.com/Xorizn"><img src="http://readme-typing-svg.herokuapp.com?color=b82323&center=true&vCenter=true&multiline=false&lines=My+Name+Xorizn;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesia;Don't+bully+me+≧▽≦" alt="Asu"></a>
 </p>
 <img src="https://github.com/Xorizn/Xorizn/blob/main/20220508_104814.jpg" />
 
