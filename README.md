@@ -11,7 +11,7 @@ if (sad() === true){
     sad().stop();
     beAwesome();
 }
-    console.log("Hello there 👋, I'm Xorizn, Nice to meet you all!"))
+    console.log("Hello there 👋, I'm Xorizn, Nice to meet you all!")
 ```
 
 -------
