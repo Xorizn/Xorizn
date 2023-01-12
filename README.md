@@ -1,43 +1,48 @@
+![My card name](https://cardivo.vercel.app/api?name=Xorizn&description=Hello%20my%20name%20is%20Bala%20and%20i%27m%2016%20years%20old%20from%20Bali,%20nice%20to%20meet%20you%20all%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/86514883?v=4&backgroundColor=%23ecf0f1&instagram=balaxdh&github=Xorizn&youtube=Xorizn&pattern=leaf&colorPattern=%23eaeaea)
 <p align="center">
   <a href="https://github.com/Xorizn"><img src="http://readme-typing-svg.herokuapp.com?color=b82323&center=true&vCenter=true&multiline=false&lines=My+Name+Xorizn;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesia;Don't+bully+me+≧▽≦" alt="Asu"></a>
 </p>
-<a href="https://r.mtdv.me/xuEfRWXsMt"><img src="https://github.com/Xorizn/Xorizn/blob/main/image/82224a74e14c9e7ac659e13b58bad1ec.jpg" /></a>
 
----
 
-```javascript
-// life motto
-if (sad() === true){
-    sad().stop();
-    beAwesome();
-}
-    console.log("Hello there 👋, I'm Xorizn, Nice to meet you all!")
-```
+<div align="center">
+  Hi all 👋, I'm Satya Wikananda a 21 years old guy who love code and open source. I really like creating an open source projects and i will make sure that the open source i create is useful to everyone. Thanks ^_^
+  <br><br>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vue%20js-%2342b883svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nuxt%20js-%2300C58E?&style=for-the-badge&logo=nuxt.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react%20js-%2361DAFB?&style=for-the-badge&logo=react&logoColor=%232E3440"/>
+  <img src="https://img.shields.io/badge/next%20js-%23000000?&style=for-the-badge&logo=next.js&logoColor=white"/>
+  <br><br>
 
--------
-
-### Connect with me 
-<p align="center">
-  <a href="https://instagram.com/xorizn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6281337541779"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
-
+  You can reach me here:<br><br>
+  <a href="mailto:balakrishnaputu@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/xorizn" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://line.me/ti/p/M-JEkT8kYt" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/line-%2300C300?&style=for-the-badge&logo=line&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/balaxdh" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/6281337541779" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+    
+  <br><br>
+  i like japanese music ♥ 
+  <br>
   
-------
-### Spotify Music
-
-<p align="center">
+  <p>
   <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
+</div>
 
-------
- 
-### Github Stats 
+<details>
+  <summary>Github Stats</summary>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xorizn&theme=monokai">
+</details>
 
-![github card](https://github-readme-stats.vercel.app/api?username=Xorizn&show_icons=true&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xorizn&theme=monokai)
-
-### Repo Stats 
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Xorizn&repo=bitch-bot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Xorizn&repo=yuzzu-api&theme=dark)
