@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=Xorizn&description=Hello%20my%20name%20is%20Bala%20and%20i%27m%2016%20years%20old%20from%20Bali,%20nice%20to%20meet%20you%20all%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/Xorizn/image/main/442757cb859d28f896389b76fff1d758.gif&backgroundColor=%23ecf0f1&instagram=balaxdh&github=Xorizn&youtube=Xorizn&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Xorizn&description=Hello%20my%20name%20is%20Bala%20and%20i%27m%2016%20years%20old%20from%20Bali,%20nice%20to%20meet%20you%20all%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/86514883?v=4&backgroundColor=%23ecf0f1&instagram=balaxdh&github=Xorizn&youtube=Xorizn&pattern=leaf&colorPattern=%23eaeaea)
 <p align="center">
   <a href="https://github.com/Xorizn"><img src="http://readme-typing-svg.herokuapp.com?color=df9c1f&center=true&vCenter=true&multiline=false&lines=My+Name+Xorizn;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesia;Don't+bully+me+≧▽≦" alt="Asu"></a>
 </p>
