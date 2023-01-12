@@ -1,18 +1,18 @@
 ![My card name](https://cardivo.vercel.app/api?name=Xorizn&description=Hello%20my%20name%20is%20Bala%20and%20i%27m%2016%20years%20old%20from%20Bali,%20nice%20to%20meet%20you%20all%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/86514883?v=4&backgroundColor=%23ecf0f1&instagram=balaxdh&github=Xorizn&youtube=Xorizn&pattern=leaf&colorPattern=%23eaeaea)
 <p align="center">
-  <a href="https://github.com/Xorizn"><img src="http://readme-typing-svg.herokuapp.com?color=b82323&center=true&vCenter=true&multiline=false&lines=My+Name+Xorizn;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesia;Don't+bully+me+≧▽≦" alt="Asu"></a>
+  <a href="https://github.com/Xorizn"><img src="http://readme-typing-svg.herokuapp.com?color=df9c1f&center=true&vCenter=true&multiline=false&lines=My+Name+Xorizn;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesia;Don't+bully+me+≧▽≦" alt="Asu"></a>
 </p>
 
 
 <div align="center">
-  Hi all 👋, I'm Satya Wikananda a 21 years old guy who love code and open source. I really like creating an open source projects and i will make sure that the open source i create is useful to everyone. Thanks ^_^
+  hi everyone 👋, I'm Bala a 16 years old. I learned to be a programmer from the time of covid-19, and now I really like making API documentation and I'm still learning too. Don't bully me, I'm not a master ^_^
   <br><br>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vue%20js-%2342b883svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nuxt%20js-%2300C58E?&style=for-the-badge&logo=nuxt.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react%20js-%2361DAFB?&style=for-the-badge&logo=react&logoColor=%232E3440"/>
-  <img src="https://img.shields.io/badge/next%20js-%23000000?&style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/still studying-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <br><br>
 
   You can reach me here:<br><br>
