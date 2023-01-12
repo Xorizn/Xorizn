@@ -31,6 +31,11 @@
   <a href="https://wa.me/6281337541779" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+  <br><br>
+  Thx to ^_^
+  <p>
+   <a href="https://github.com/satyawikananda"><img src="https://img.shields.io/badge/Thanks to Satya Wikananda-db9107?style=for-the-badge"/></a>
+  </p>
     
   <br><br>
   i like japanese music ♥ 
@@ -39,15 +44,9 @@
   <p>
   <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
-  <br>
-  <br>
-  <p>
-    Thanks to <a href="https://github.com/satyawikananda">Satya Wikananda ^_^ </a>
-  </p>
 </div>
 
 <details>
   <summary>Github Stats</summary>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xorizn&theme=monokai">
 </details>
-
