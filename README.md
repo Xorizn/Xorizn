@@ -37,7 +37,7 @@
    <a href="https://github.com/satyawikananda"><img src="https://img.shields.io/badge/Satya Wikananda-db9107?style=for-the-badge"/></a>
   </p>
     
-  <br><br>
+  <br><br><br>
   i like japanese music ♥ 
   <br>
   
