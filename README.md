@@ -38,7 +38,7 @@
   </p>
     
   <br><br>
-  i like japanese music ♥ 
+  i like japanese music ♥ i hope u too
   <br>
   
   <p>
