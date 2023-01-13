@@ -44,7 +44,7 @@
   <br>
   
   <p>
-  <a href="https://open.spotify.com/playlist/5N9L389cPJMOzGq858w4lE?si=3353786714cf44ed" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://open.spotify.com/playlist/5AJvZkoWAG79Z2wuwaHs8a?si=586f08ec31fe49ef" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 </div>
 
