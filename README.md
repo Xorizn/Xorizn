@@ -28,9 +28,6 @@
   <a href="https://instagram.com/balaxdh" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://wa.me/6281337541779" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
   <br><br>
   Thx to ^_^
   <p>
