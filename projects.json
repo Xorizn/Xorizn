@@ -1,0 +1,42 @@
+[
+  {
+    "img": "https://socialify.git.ci/Xorizn/xorizn-downloads/image?description=1&descriptionEditable=This%20is%20a%20scraper%20API%20that%20I%20made%20myself.%20You%20can%20use%20it%20by%20entering%20the%20Vercel%20link%20above%20and%20then%20just%20use%20it.%20Below%20there%20is%20an%20example%20of%20how%20to%20use%20this%20API.&font=Jost&forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FXorizn%2FXorizn%2Fmain%2Fimage%2Fvercel.svg&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Light",
+    "title": "Api Downloads",
+    "desc": "This is a scraper API that I made myself. You can use it by entering the Vercel link above and then just use it. Below there is an example of how to use this API.",
+    "language": "Node.js, JavaScript, Exspress Router",
+    "link": "https://github.com/Xorizn/xorizn-downloads",
+    "demo": "https://xorizn-downloads.vercel.app/"
+  },
+  {
+    "img": "https://socialify.git.ci/Xorizn/xorizn-search/image?description=1&descriptionEditable=This%20is%20a%20scraper%20API%20that%20I%20made%20myself.%20You%20can%20use%20it%20by%20entering%20the%20Vercel%20link%20above%20and%20then%20just%20use%20it.%20Below%20there%20is%20an%20example%20of%20how%20to%20use%20this%20API.&font=Jost&forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FXorizn%2FXorizn%2Fmain%2Fimage%2Fvercel.svg&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Light",
+    "title": "Api Search",
+    "desc": "This is a scraper API that I made myself. You can use it by entering the Vercel link above and then just use it. Below there is an example of how to use this API.",
+    "language": "Node.js, JavaScript, Exspress Router",
+    "link": "https://github.com/Xorizn/xorizn-search",
+    "demo": "https://xorizn-search.vercel.app"
+  },
+  {
+    "img": "https://socialify.git.ci/Xorizn/xorizn-apis/image?description=1&descriptionEditable=This%20is%20a%20scraper%20API%20that%20I%20made%20myself.%20You%20can%20use%20it%20by%20entering%20the%20Vercel%20link%20above%20and%20then%20just%20use%20it.%20Below%20there%20is%20an%20example%20of%20how%20to%20use%20this%20API.&font=Jost&forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FXorizn%2FXorizn%2Fmain%2Fimage%2Fvercel.svg&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Light",
+    "title": "Api Scraper",
+    "desc": "This is a scraper API that I made myself. You can use it by entering the Vercel link above and then just use it. Below there is an example of how to use this API.",
+    "language": "Node.js, JavaScript, Exspress Router",
+    "link": "https://github.com/Xorizn/xorizn-apis",
+    "demo": "https://xorizn-apis-v1.vercel.app/"
+  },
+  {
+    "img": "https://cardivo.vercel.app/api?name=Scraper%20-%20Typescript/Javascript&description=Hello%20everyone,%20I%20created%20an%20API%20document%20with%20the%20code%20I%20have%20created.%20There%20are%20a%20lot%20of%20scrapers%20that%20I%20made,%20you%20can%20use%20this%20nodejs%20code%20for%20your%20web%20and%20others.%20I%20hope%20you%20are%20all%20happy%20with%20the%20code%20I%20made%20even%20though%20I%20am%20a%20beginner%20programmer.&image=https://avatars.githubusercontent.com/u/86514883?v=4&backgroundColor=%23ecf0f1&instagram=balaxdh&github=Xorizn&youtube=Xorizn&pattern=leaf&colorPattern=%23eaeaea",
+    "title": "Xorizn Scraper",
+    "desc": "Hello everyone, I created an API document with the code I have created. There are a lot of scrapers that I made, you can use this nodejs code for your web and others. I hope you are all happy with the code I made even though I am a beginner programmer.",
+    "language": "TypeScript, Node.js, JavaScript",
+    "link": "https://github.com/Xorizn/xorizn-scraper",
+    "demo": "https://www.npmjs.com/package/xorizn-scraper"
+  },
+  {
+    "img": "https://socialify.git.ci/Xorizn/bitch-bot/image?description=1&descriptionEditable=Ini%20adalah%20bot%20whatsapp%20yang%20sudah%20dalam%20versi%20yang%20lama%20sekali,%20jadi%20ini%20hanyalah%20sekedar%20script%20yang%20saya%20recode%20dari%20denis&font=Jost&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Light",
+    "title": "Bitch Bot",
+    "desc": "Ini adalah bot whatsapp yang sudah dalam versi yang lama sekali, jadi ini hanyalah sekedar script yang saya recode dari denis",
+    "language": "Node.js, JavaScript",
+    "link": "https://github.com/Xorizn/bitch-bot",
+    "demo": "https://github.com/Xorizn/bitch-bot"
+  }
+]
