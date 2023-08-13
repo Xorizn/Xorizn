@@ -8,7 +8,7 @@ start adalah awal dari alur kerja webnya
 User akan memberikan sebuah input sesuai dengan apa yang mereka cari, seperti lambung, hati dan yang lainnya.
 
 ## Search result controller
-Nah disini lah yang akan terjadi pencarian input dari user, kita disini menggunakan sebuah data json/dict untuk mendata semua organ pencernaan, dengan javascript kita membuat program untuk mencari apa yang user inputkan.
+Nah disini lah yang akan terjadi pencarian input dari user, kita disini menggunakan sebuah data json/dict untuk mendata semua organ pencernaan, dengan javascript kita membuat program untuk mencari apa yang user inputkan melalui data json/dict tersebut.
 
 ## Result
 Nah jika result ditemukan `di search result controller` maka akan ditampilkan di html dan program akan berhenti atau disebut END.
