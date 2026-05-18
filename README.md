@@ -1,4 +1,4 @@
-![My card name](image/asdfasdf.svg)
+
 <p align="center">
   <a href="https://github.com/Xorizn"><img src="http://readme-typing-svg.herokuapp.com?color=df9c1f&center=true&vCenter=true&multiline=false&lines=My+Name+Xorizn;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesia;Don't+bully+me+≧▽≦" alt="Asu"></a>
 </p>
