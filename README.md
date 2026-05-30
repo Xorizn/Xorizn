@@ -1,49 +1,42 @@
-
-<p align="center">
-  <a href="https://github.com/Xorizn"><img src="http://readme-typing-svg.herokuapp.com?color=df9c1f&center=true&vCenter=true&multiline=false&lines=My+Name+Xorizn;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesia;Don't+bully+me+≧▽≦" alt="Asu"></a>
-</p>
-
-
 <div align="center">
-  hi everyone 👋, I'm Bala a 16 years old. I learned to be a programmer from the time of covid-19, and now I really like making API documentation and I'm still learning too. Don't bully me, I'm not a master ^_^
-  <br><br>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/still studying-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <br><br>
-
-  You can reach me here:<br><br>
-  <a href="mailto:balakrishnaputu@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/xorizn" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://line.me/ti/p/M-JEkT8kYt" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/line-%2300C300?&style=for-the-badge&logo=line&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/balaxdh" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <br><br>
-  Thx to ^_^
-  <p>
-   <a href="https://github.com/satyawikananda"><img src="https://img.shields.io/badge/Satya Wikananda-db9107?style=for-the-badge"/></a>
-  </p>
-    
-  <br><br><br>
-  i like japanese music ♥ 
-  <br>
-  
-  <p>
-  <a href="https://g.co/gemini/share/3fd3c0216c1e" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
+  <h1>Hi, I'm Bala (Xorizn)</h1>
 </div>
 
-<details>
-  <summary>Github Stats</summary>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xorizn&theme=monokai">
-</details>
+![My card name](https://cardivo.vercel.app/api?name=Zee%20Qiang&description=I%27m%20just%20having%20fun%20with%20coding.&image=https://avatars.githubusercontent.com/u/86514883?v=4&backgroundColor=%23ecf0f1&instagram=yiball&github=xorizn&twitter=balaxdh&pattern=leaf&colorPattern=%23eaeaea)\
+
+<div align="center">
+  <p><b>Nothing Developer | Based in Indonesia</b></p>
+</div>
+
+---
+
+## About Me
+
+I am a software developer whose programming journey began in 2020. I have a strong focus on building efficient applications and a particular passion for technical writing and crafting comprehensive API documentation. I am a dedicated problem-solver who is constantly learning and expanding my technical skill set. 
+
+## Technical Arsenal
+
+Here are the languages and tools I work with:
+
+<br>
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TypeScript (Learning)-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</div>
+<br>
+
+## Let's Connect
+
+I am always open to discussing tech, collaborating on projects, or networking. Feel free to reach out via:
+
+<br>
+<div align="left">
+  <a href="mailto:balakrishnaputu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/xorizn"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://line.me/ti/p/M-JEkT8kYt"><img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="Line" /></a>
+</div>
+<br>
