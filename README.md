@@ -22,6 +22,7 @@ Here are the languages and tools I work with:
 <div align="left">
   <img src="https://img.shields.io/badge/react%20js-%2361DAFB?&style=for-the-badge&logo=react&logoColor=%232E3440"/>
   <img src="https://img.shields.io/badge/next%20js-%23000000?&style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-43853D?style=for-the-badge&logo=express&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
