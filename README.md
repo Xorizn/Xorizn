@@ -2,7 +2,12 @@
   <h1>Hi, I'm Bala (Xorizn)</h1>
 </div>
 
+<a href="https://github.com/Xorizn">
+  
 ![My card name](https://cardivo.vercel.app/api?name=Zee%20Qiang&description=I%27m%20just%20having%20fun%20with%20coding.&image=https://avatars.githubusercontent.com/u/86514883?v=4&backgroundColor=%23ecf0f1&instagram=yiball&github=xorizn&twitter=balaxdh&pattern=leaf&colorPattern=%23eaeaea)
+
+</a>
+
 
 <div align="center">
   <p><b>Nothing Developer | Based in Indonesia</b></p>
