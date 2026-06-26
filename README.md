@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Bala (Xorizn)</h1>
+  <h1>Hi, I'm Bala Qiang (Xorizn)</h1>
 </div>
 
 <a href="https://github.com/Xorizn">
