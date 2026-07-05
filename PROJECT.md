@@ -198,3 +198,4 @@ AI Layer menggabungkan sinyal-sinyal ini menjadi satu skor akhir + narasi, bukan
 
 *Dokumen ini adalah draft kerja untuk hackathon. Scope dan detail teknis dapat disesuaikan seiring perkembangan tim.*
 
+![FlowChart](https://raw.githubusercontent.com/Xorizn/Xorizn/refs/heads/main/mermaid-diagram-2026-07-05-223826.png)
